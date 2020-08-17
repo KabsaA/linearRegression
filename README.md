@@ -10,7 +10,7 @@ This dataset has about 1,500 reviews of the Amazon Kindle and contains variables
 
 <img src="img/img1.png">
 
-##Frequency in Rating
+##Frequency in Rating <br />
 Five Stars was the most popular choice among users as over 700 reviews had that rating which skews the data to the left. Five star reviews were found to be about 50% helpful to other users who wanted to make a product purchase. One Star had the lowest frequency and were found the least helpful.
 
 <img src="img/img2.png">
